@@ -1,2 +1,2 @@
-# Gerald-Resolusi
+# gerald-resolusi
 Repository untuk menyimpan rencana kedepan
